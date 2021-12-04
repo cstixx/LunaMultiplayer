@@ -2,6 +2,10 @@
 #Then each master server will look if the server is on this list and tell the clients if it's a dedicated server or not
 #It will appear with a rainbow effect on the browser or with the custom color specified in the DedicatedServerSettings.xml
 
+
+#Stix Community servers(career unlimited + test server)
+na-5.styxnet.xyz:2102
+na-5.styxnet.xyz:2140
 #Vega Career + Sandbox
 148.251.92.44:8801
 148.251.92.44:8800
